@@ -11,8 +11,8 @@
     <bounds
         x="132"
         y="270"
-        width="400"
-        height="140"/>
+        width="469"
+        height="271"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-6fd6e8bd4e9a490a8dd4b182201abcc1">
@@ -28,17 +28,17 @@
       <bounds
           x="12"
           y="36"
-          width="373"
-          height="97"/>
+          width="445"
+          height="217"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-0586eb66070349699f39ef70431494e5"
           targetConnections="id-b5042db403b74edc8f98fa8f871eaa05">
         <bounds
-            x="240"
-            y="24"
-            width="120"
-            height="55"/>
+            x="24"
+            y="60"
+            width="385"
+            height="145"/>
         <archimateElement
             xsi:type="archimate:CourseOfAction"
             href="CourseOfAction_id-fa824a71d3b24b9ebcee3857f6766914.xml#id-fa824a71d3b24b9ebcee3857f6766914"/>
