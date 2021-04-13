@@ -51,39 +51,4 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-cf4268ab93b543c1bdff268749850845.xml#id-cf4268ab93b543c1bdff268749850845"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-1f253b2daa5c451280f9752b3858640f"
-      textAlignment="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-db29ec551aec45f289b4f12054a3dd15"
-        source="id-1f253b2daa5c451280f9752b3858640f"
-        target="id-5d49d32e656d4bf9bdbf82ac6ac8e5cd">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-02d0dfae7bc946b18d13aab9543ac827.xml#id-02d0dfae7bc946b18d13aab9543ac827"/>
-    </sourceConnections>
-    <bounds
-        x="164"
-        y="89"
-        width="400"
-        height="140"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-5d49d32e656d4bf9bdbf82ac6ac8e5cd"
-        targetConnections="id-db29ec551aec45f289b4f12054a3dd15">
-      <bounds
-          x="12"
-          y="24"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:BusinessEvent"
-          href="BusinessEvent_id-8aa26a54a7e74271982bc75963d3b6d3.xml#id-8aa26a54a7e74271982bc75963d3b6d3"/>
-    </children>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-6f570ee07c7b4239a1864317d745d18d.xml#id-6f570ee07c7b4239a1864317d745d18d"/>
-  </children>
 </archimate:ArchimateDiagramModel>
