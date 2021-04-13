@@ -1,0 +1,51 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Visi Misi Kemenkeu"
+    id="id-003d1a5e676a499289e373a8a3f9954e">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-1ce9bd29d00544b187c162aed156d68b"
+      name="Visi Misi Kemenkeu"
+      textAlignment="1">
+    <bounds
+        x="132"
+        y="270"
+        width="469"
+        height="271"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-6fd6e8bd4e9a490a8dd4b182201abcc1">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-b5042db403b74edc8f98fa8f871eaa05"
+          source="id-6fd6e8bd4e9a490a8dd4b182201abcc1"
+          target="id-0586eb66070349699f39ef70431494e5">
+        <archimateRelationship
+            xsi:type="archimate:CompositionRelationship"
+            href="CompositionRelationship_id-ea801b68553c453b8fd2c1baaff6266e.xml#id-ea801b68553c453b8fd2c1baaff6266e"/>
+      </sourceConnections>
+      <bounds
+          x="12"
+          y="36"
+          width="445"
+          height="217"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-0586eb66070349699f39ef70431494e5"
+          targetConnections="id-b5042db403b74edc8f98fa8f871eaa05">
+        <bounds
+            x="24"
+            y="60"
+            width="385"
+            height="145"/>
+        <archimateElement
+            xsi:type="archimate:CourseOfAction"
+            href="CourseOfAction_id-fa824a71d3b24b9ebcee3857f6766914.xml#id-fa824a71d3b24b9ebcee3857f6766914"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:CourseOfAction"
+          href="CourseOfAction_id-2c79e05d22ba4d5296f727f116ac97ba.xml#id-2c79e05d22ba4d5296f727f116ac97ba"/>
+    </children>
+  </children>
+</archimate:ArchimateDiagramModel>
