@@ -1,4 +1,17 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Solution Concept Diagram"
-    id="id-003d1a5e676a499289e373a8a3f9954e"/>
+    id="id-003d1a5e676a499289e373a8a3f9954e">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-1ce9bd29d00544b187c162aed156d68b"
+      name="Visi Misi Kemenkeu"
+      textAlignment="1">
+    <bounds
+        x="132"
+        y="270"
+        width="400"
+        height="140"/>
+  </children>
+</archimate:ArchimateDiagramModel>
