@@ -16,14 +16,14 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-a969a08856984710afd037abe454edf2">
+      id="id-8a49ce7ac1994cb0aa4b7a98e485baab">
     <bounds
-        x="36"
-        y="156"
+        x="98"
+        y="148"
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-3eb13bc356f24589b12af390f33c8974.xml#id-3eb13bc356f24589b12af390f33c8974"/>
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-56224964f8f84f3589864d388c59cebb.xml#id-56224964f8f84f3589864d388c59cebb"/>
   </children>
 </archimate:ArchimateDiagramModel>
