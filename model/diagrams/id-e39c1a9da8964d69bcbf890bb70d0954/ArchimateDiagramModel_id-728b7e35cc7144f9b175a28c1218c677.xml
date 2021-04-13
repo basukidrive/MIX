@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pengem"
+    id="id-728b7e35cc7144f9b175a28c1218c677">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-672130711de34c4180056a571eb3631d">
+    <bounds
+        x="252"
+        y="144"
+        width="613"
+        height="229"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-e3fe8d7a1c25433ebb5fd537602a640c.xml#id-e3fe8d7a1c25433ebb5fd537602a640c"/>
+  </children>
+</archimate:ArchimateDiagramModel>
