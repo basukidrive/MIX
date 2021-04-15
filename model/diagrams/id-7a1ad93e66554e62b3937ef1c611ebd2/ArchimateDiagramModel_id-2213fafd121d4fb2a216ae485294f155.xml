@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="1a. Penyatuan Database Kepegawaian"
+    name="1a. Penyatuan Database Pengembangan Kepegawaian"
     id="id-2213fafd121d4fb2a216ae485294f155">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -270,5 +270,31 @@
     <archimateElement
         xsi:type="archimate:Plateau"
         href="Plateau_id-5914729e0bb344c3ad5b3a35cd6f6e95.xml#id-5914729e0bb344c3ad5b3a35cd6f6e95"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c8b265c772f441e0847dd7754999291d"
+      fillColor="#729fcf">
+    <bounds
+        x="48"
+        y="96"
+        width="589"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_id-84ee13b3528e49abbbb1fc2f951b6caf.xml#id-84ee13b3528e49abbbb1fc2f951b6caf"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4ce2a06ed03242c59f5c123ba1715ca8"
+      fillColor="#729fcf">
+    <bounds
+        x="648"
+        y="96"
+        width="444"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_id-f2705c5b23e84446a957cfda75e795fe.xml#id-f2705c5b23e84446a957cfda75e795fe"/>
   </children>
 </archimate:ArchimateDiagramModel>
