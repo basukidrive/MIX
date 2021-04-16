@@ -9,25 +9,12 @@
       fillColor="#729fcf">
     <bounds
         x="456"
-        y="198"
-        width="133"
+        y="216"
+        width="276"
         height="55"/>
     <archimateElement
         xsi:type="archimate:WorkPackage"
         href="WorkPackage_id-15027dff14744d1fbf9b2187ca3d09db.xml#id-15027dff14744d1fbf9b2187ca3d09db"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-b5b3f796ddb64a5a8d3fd9b18de5fe29"
-      fillColor="#729fcf">
-    <bounds
-        x="600"
-        y="198"
-        width="132"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:WorkPackage"
-        href="WorkPackage_id-4e7243f678724f4d9679e7876728e7b3.xml#id-4e7243f678724f4d9679e7876728e7b3"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
